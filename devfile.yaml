@@ -7,7 +7,7 @@ projects:
     name: dotnet-web-simple
     source:
       type: git
-      location: "https://github.com/che-samples/dotnet-web-simple"
+      location: "https://github.com/mbach04/dotnetcrwdemo"
       branch: netcoreapp3.1
 components:
   -
